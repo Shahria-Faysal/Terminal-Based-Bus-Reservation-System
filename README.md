@@ -92,7 +92,7 @@ Admins can modify fares, which are saved permanently in `fares.txt`.
 
 ## ▶️ How to Run
 ```
-python frass8.py
+python Bus_Ticket_Managerss8.py
 ```
 Make sure the script is in a writable folder, as it generates and updates data files.
 
